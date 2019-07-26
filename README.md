@@ -11,5 +11,4 @@
 
 
 > 2.Unpack **`TakiUtility.zip`** into \Content\Mordhau\Maps\
-
 ![Guide-Image-1](https://i.imgur.com/FJ45KYl.jpg)

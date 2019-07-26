@@ -19,7 +19,6 @@
 ![Guide-Image-4](https://i.imgur.com/4zMmaBM.jpg)
 
 > **5.** Hit `Compile` & `Save` afterwards
-![Guide-Image-5](https://i.imgur.com/n3uaKeW.jpg)
 
 > **6** Go into your Level Scene/Viewport and drag in some **`TakiSpawnPoint`**'s
 ![Guide-Image-6](https://i.imgur.com/vOCSpNQ.jpg)

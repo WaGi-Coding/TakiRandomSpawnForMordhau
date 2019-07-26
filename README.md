@@ -10,5 +10,8 @@
 > **1.** Download the newest version of this [**\> HERE <**](https://github.com/WaGi-Coding/TakiRandomSpawnForMordhau/releases)
 
 
-> **2.** Unpack **`TakiUtility.zip`** into \Content\Mordhau\Maps\
+> **2.** Unpack **`TakiUtility.zip`** into `\Content\Mordhau\Maps\` so the
+![Guide-Image-1](https://i.imgur.com/FJ45KYl.jpg)
+
+> **3.** Unpack **`TakiUtility.zip`** into \Content\Mordhau\Maps\
 ![Guide-Image-1](https://i.imgur.com/FJ45KYl.jpg)

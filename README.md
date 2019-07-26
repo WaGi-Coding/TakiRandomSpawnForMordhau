@@ -11,7 +11,21 @@
 
 
 > **2.** Unpack **`TakiUtility.zip`** into `\Content\Mordhau\Maps\` so the full path where the 2 Blueprints are is `\Content\Mordhau\Maps\TakiUtility\` containing TakiSpawnController.uasset & TakiSpawnPoint.uasset
-![Guide-Image-1](https://i.imgur.com/FJ45KYl.jpg)
+![Guide-Image-2](https://i.imgur.com/FJ45KYl.jpg)
 
-> **3.** Unpack **`TakiUtility.zip`** into \Content\Mordhau\Maps\
-![Guide-Image-1](https://i.imgur.com/FJ45KYl.jpg)
+> **3.** Open your Project and open your Maps LevelBlueprint
+
+> **4.** Drag **`TakiSpawnController`** into the LevelBlueprint and connect the Event BeginPlay with it.
+![Guide-Image-4](https://i.imgur.com/4zMmaBM.jpg)
+
+> **5.** Hit `Compile` & `Save` afterwards
+![Guide-Image-5](https://i.imgur.com/n3uaKeW.jpg)
+
+> **6** Go into your Level Scene/Viewport and drag in some **`TakiSpawnPoint`**'s
+![Guide-Image-6](https://i.imgur.com/vOCSpNQ.jpg)
+
+## Thats it!
+
+You maybe want to adjust the Spheres Radius.
+You can find that in the Component Hierachy
+![ChangeSphereSize-Explanation](https://i.imgur.com/N9shS0T.jpg)

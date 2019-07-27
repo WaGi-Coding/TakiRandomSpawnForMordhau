@@ -25,6 +25,8 @@
 
 ## Thats it!
 
+For sure you need the cooked blueprints in same location as in your editor on your client then
+
 You maybe want to adjust the Spheres Radius.
 You can find that in the Component Hierachy
 ![ChangeSphereSize-Explanation](https://i.imgur.com/N9shS0T.jpg)

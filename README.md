@@ -25,7 +25,7 @@
 
 ## Thats it!
 
-PS: When you plan to share your map, share the blueprints together with your map. So after importing it while editor is closed, you create a folder called like you will save/share it then in UE Content Browser. Like `Content\Mordhau\Maps\MySickMap`. YOU STILL LEAVE THE LEVEL ITSELF IN CONTENT ROOT! Move the 2 Blueprints from `Content\Mordhau\Maps\TakiUtility\...` into your new created `Content\Mordhau\Maps\MySickMap` folder. For sure after cooking you also need the cooked Blueprints in your game-maps-folder `\steamapps\common\Mordhau\Mordhau\Content\Mordhau\Maps\MySickMap`. You can keep the normal original structure, but when more people do this, they will maybe override it with a newer/older version which cause problems. So i prefer to move the scripts AFTER IMPORTING to prevent this.
+PS: When you plan to share your map, share the blueprints together inside your map folder. So after importing it while editor is closed, you create a folder called like you will save/share it then in UE Content Browser. Like `Content\Mordhau\Maps\MySickMap`. YOU STILL LEAVE THE LEVEL ITSELF IN CONTENT ROOT! Move the 2 Blueprints from `Content\Mordhau\Maps\TakiUtility\...` into your new created `Content\Mordhau\Maps\MySickMap` folder. For sure after cooking you also need the cooked Blueprints in your game-maps-folder `\steamapps\common\Mordhau\Mordhau\Content\Mordhau\Maps\MySickMap`. You can keep the normal original structure, but when more people do this, they will maybe override it with a newer/older version which cause problems. So i prefer to move the scripts AFTER IMPORTING to prevent this.
 
 
 REMEMBER: You need the cooked blueprints in same location as in your editor on your client then!

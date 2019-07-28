@@ -31,6 +31,7 @@ PS: When you plan to share your map, share the blueprints together with your map
 REMEMBER: You need the cooked blueprints in same location as in your editor on your client then!
 
 If you need any help, either join the Mordhau Mapping-Modding Discord: [Discord Link Modding/Mapping](https://discord.gg/ZAW3nvK)
+
 Or my personal community one: [Taki's Mordhau Discord](https://Discord.io/Taki)
 
 You maybe want to adjust the Spheres Radius.

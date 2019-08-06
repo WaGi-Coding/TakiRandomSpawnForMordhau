@@ -10,8 +10,8 @@
 > **1.** Download the newest version of this [**\> HERE <**](https://github.com/WaGi-Coding/TakiRandomSpawnForMordhau/releases)
 
 
-> **2.** Unpack **`TakiUtility.zip`** into `\Content\Mordhau\Maps\` so the full path where the 2 Blueprints are is `\Content\Mordhau\Maps\TakiUtility\` containing TakiSpawnController.uasset & TakiSpawnPoint.uasset
-![Guide-Image-2](https://i.imgur.com/FJ45KYl.jpg)
+> **2.** Unpack **`TakiUtility.zip`** into **`\Content\`** of your project (in windows explorer WHILE UE is closed) so after that you'll have **`\Content\Mordhau\Maps\TakiUtility\`** containing TakiSpawnController.uasset & TakiSpawnPoint.uasset. Aswell you should have **`\Content\Mordhau\Blueprints\Characters\BP_MordhauCharacter.uasset`** (thats not included in the old version for UE 4.21 since old ploucontent-pack contained it, the new one does not, so i've to share this aswell)
+![Guide-Image-2](https://i.imgur.com/9XqEbQ9.jpg)
 
 > **3.** Open your Project and open your Maps LevelBlueprint
 

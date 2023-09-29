@@ -1,3 +1,6 @@
+# DO NOT USE THIS!!! This was only some dirty workaround when modding was not a thing in Mordhau
+
+
 # Taki Random Spawn System for Mordhau
 ### Easy to use Random Spawn System for Custom/Modded Mordhau Map Creators. You can set a range with a Sphere around a SpawnPoint. If somebody stays inside this Sphere the Spawn Controller will check for another SpawnPoint.
 
